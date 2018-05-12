@@ -1,0 +1,41 @@
+_repo: Kenilworth-III-IV_42404
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lehtonen, Vihtori
+    gutenberg_agent_id: '41672'
+    url: http://www.gutenberg.org/2009/agents/41672
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2013-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42404'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- !lcsh 'Dudley, Amy Robsart, Lady, 1532?-1560 -- Fiction'
+- !lcsh 'Kenilworth Castle (Kenilworth, England) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Leicester, Robert Dudley, Earl of, 1532?-1588 -- Fiction'
+title: Kenilworth III-IV
+url: http://www.gutenberg.org/ebooks/42404
